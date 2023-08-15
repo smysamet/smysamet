@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samet</h1>
-<h3 align="center">A passionate full stack developer from Turkey.</h3>
+<h3 align="center">A passionate game developer / software engineer from Turkey.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 
