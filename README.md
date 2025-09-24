@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samet Mert YUKSEL</h1>
+<h1 align="center">Hi 👋, I'm Samet YUKSEL</h1>
 <h3 align="center">A full stack and game developer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
